@@ -1,1 +1,2 @@
-contenu du fichier2
+changer le contenu du fichier2
+une autre ligne ;)
